@@ -1,0 +1,16 @@
+{
+    "ServerData": {
+        "ip": "localhost",
+        "port": "5432"
+    },
+    "DataBaseData": {
+        "name": "prueba",
+        "procedures" : "false"
+    },
+    "UserDataBaseData": {
+        "name": "postgres",
+        "password": "redbus"
+    },
+    "DatabaseEngineType" : "sql",
+    "EngineType" : "postgresql"
+}
